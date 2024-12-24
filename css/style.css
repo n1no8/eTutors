@@ -568,7 +568,7 @@ hr.border {
 .payments_text {
     width: 100%;
     font-size: 20px;
-    color: #060606;
+        color: #fefefd;
     text-align: center;
     padding: 15px 0px;
 }
@@ -577,7 +577,7 @@ hr.border {
     width: 100%;
     margin: 0 auto;
     font-size: 16px;
-    color: #474747;
+    color: #fefefd;
     text-align: center;
 }
 
@@ -592,15 +592,15 @@ hr.border {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #2d2c2c;
-    color: #474747;
+    background-color: #fefefd;
+    color: #fefefd;
     text-align: center;
     padding: 12px;
     border-radius: 5px;
 }
 
 .read_bt a:hover {
-    color: #474747;
+    color: #fefefd;
     background-color: #6e6e6e;
 }
 
