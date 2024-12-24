@@ -534,12 +534,7 @@ hr.border {
     padding-top: 50px;
 }
 
-.work_box {
-    width: 100%;
-    background-color: #6e6e6e;
-    height: auto;
-    padding: 40px 20px;
-}
+
 
 .work_box:hover {
     background-color: #6e6e6e;
